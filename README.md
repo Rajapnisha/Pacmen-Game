@@ -1,7 +1,13 @@
-A super simple walkthourgh to coding Pac-Man in JavaScript, HTML and CSS. 
+#**Basic Pac-Man Game**
+This is a simplified version of the Pac-Man game built using HTML, CSS, and JavaScript. In this version, Pac-Man moves in a straight line while his mouth opens and closes, without complex gameplay .
 
-I have kept the styling at a bare miniumum for you to go wild and make it your own. Please tag me as I would LOVE to see your game!!!
+**Features**
+Basic Animation: Pac-Man's mouth opens and closes as he moves.
+Straight Movement: Pac-Man moves in a single direction without turning or interaction with obstacles.
+Minimalistic Design: Focused on basic functionality and animations.
 
-In this game I show you how to make Pac-Man move
-
+**Technologies Used**
+HTML5 for basic structure.
+CSS3 for simple styling.
+JavaScript for controlling Pac-Man's movement and animation.
  
